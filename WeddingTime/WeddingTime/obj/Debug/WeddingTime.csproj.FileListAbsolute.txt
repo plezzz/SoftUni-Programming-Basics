@@ -1,0 +1,7 @@
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\bin\Debug\WeddingTime.exe.config
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\bin\Debug\WeddingTime.exe
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\bin\Debug\WeddingTime.pdb
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\obj\Debug\WeddingTime.csprojAssemblyReference.cache
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\obj\Debug\WeddingTime.csproj.CoreCompileInputs.cache
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\obj\Debug\WeddingTime.exe
+C:\Users\Niki\source\repos\WeddingTime\WeddingTime\obj\Debug\WeddingTime.pdb
